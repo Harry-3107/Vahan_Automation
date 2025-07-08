@@ -1,0 +1,13 @@
+Data Collection from Vahan Website (tn.py,andhra.py,kerala.py.karnataka.py)
+
+Aggregation Of Data (District_Data_Aggregation.py)
+
+Calculating Day-wise Data (DayWiseData.py)
+
+Data Collection from SF Official Website (SFDistrict.py)
+
+Creation Of Dummy Data (SF_Branch_Dummy_Data.py)
+
+Dumping Of Data to form a database (MySQL_Data_Dumping.py)
+
+Refresh the data in the Power BI Dashboard (Market Share Analysis.pbix)
